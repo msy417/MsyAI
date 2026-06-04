@@ -22,3 +22,10 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Sensitive scripts
+ssh-*.cjs
+upload-to-github.cjs
+
+# Temporary files
+.trae
